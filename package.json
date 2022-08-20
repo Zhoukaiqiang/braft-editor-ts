@@ -16,6 +16,9 @@
   "peerDependencies": {
     "react": "^18.2.0"
   },
+  "publishConfig": {
+    "registry": "https://github.com/Zhoukaiqiang/braft-editor-ts.git"
+  },
   "devDependencies": {
     "@types/react": "^18.0.17",
     "esbuild": "^0.15.5",
